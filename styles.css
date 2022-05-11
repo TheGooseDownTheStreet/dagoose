@@ -1,0 +1,23 @@
+.tea1 {
+    position: absolute;
+    top:0;
+    left:0;
+}
+.tea2 {
+    position: absolute;
+    top:0;
+    left:0;
+}
+.mm {
+    position: absolute;
+    top:0;
+    left:40%;
+}
+.milk {
+    position: absolute;
+    top:0;
+    left:70%;
+}
+.main{
+    position: relative;
+}
